@@ -1,0 +1,13 @@
+{
+  "nativePlugins": [
+    {
+      "plugins": [
+        {
+          "type": "module",
+          "name": "AppModule",
+          "class": "cn.hy.module.AppModule"
+        }
+      ]
+    }
+  ]
+}

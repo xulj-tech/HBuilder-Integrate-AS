@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="Gradle: ./simpleDemo/libs/uniapp-v8-release.aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0cbead2a0b63d93bfcef487eb909ff75/uniapp-v8-release/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/61eab6ec1cd6ec98d78a05024cf442d2/uniapp-v8-release/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0cbead2a0b63d93bfcef487eb909ff75/uniapp-v8-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0cbead2a0b63d93bfcef487eb909ff75/uniapp-v8-release/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0cbead2a0b63d93bfcef487eb909ff75/uniapp-v8-release/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0cbead2a0b63d93bfcef487eb909ff75/uniapp-v8-release/jars/libs/bindingx_weex_plugin-1.0.9.6.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0cbead2a0b63d93bfcef487eb909ff75/uniapp-v8-release/jars/libs/bindingx-core-1.0.9.6.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/61eab6ec1cd6ec98d78a05024cf442d2/uniapp-v8-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/61eab6ec1cd6ec98d78a05024cf442d2/uniapp-v8-release/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/61eab6ec1cd6ec98d78a05024cf442d2/uniapp-v8-release/jars/libs/bindingx_weex_plugin-1.0.9.6.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/61eab6ec1cd6ec98d78a05024cf442d2/uniapp-v8-release/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/61eab6ec1cd6ec98d78a05024cf442d2/uniapp-v8-release/jars/libs/bindingx-core-1.0.9.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

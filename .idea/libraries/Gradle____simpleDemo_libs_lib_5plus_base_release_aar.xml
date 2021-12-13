@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: ./simpleDemo/libs/lib.5plus.base-release.aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b6fa7bd2a222ae6d7888a05d5f19f770/lib.5plus.base-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b6fa7bd2a222ae6d7888a05d5f19f770/lib.5plus.base-release/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b6fa7bd2a222ae6d7888a05d5f19f770/lib.5plus.base-release/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9b05f92c41ac21aafe424385ee621a30/lib.5plus.base-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9b05f92c41ac21aafe424385ee621a30/lib.5plus.base-release/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9b05f92c41ac21aafe424385ee621a30/lib.5plus.base-release/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
